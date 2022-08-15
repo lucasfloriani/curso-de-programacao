@@ -1,0 +1,1 @@
+# Como códigos assincronos functionam

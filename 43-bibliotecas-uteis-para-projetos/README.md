@@ -1,0 +1,1 @@
+# Bibliotecas úteis para projetos
