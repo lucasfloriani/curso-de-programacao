@@ -1,0 +1,1 @@
+# Javascript e seu escopo

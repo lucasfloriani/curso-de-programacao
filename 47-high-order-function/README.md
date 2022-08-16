@@ -1,0 +1,1 @@
+# High order functions (HOC)
