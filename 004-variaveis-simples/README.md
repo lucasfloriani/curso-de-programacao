@@ -15,13 +15,15 @@ var nome: string = "Lucas"
 
 Seguindo essa sintaxe especifica nos temos agora uma caixa com uma etiqueta dizendo que é uma caixa para um **nome** e que o valor que temos dentro é "Lucas".
 
-┌──────Nome──────┐
-│                │
-│                │
-│    "Lucas"     │
-│                │
-│                │
-└────────────────┘
+```typescript
+// ┌──────Nome──────┐
+// │                │
+// │                │
+// │    "Lucas"     │
+// │                │
+// │                │
+// └────────────────┘
+```
 
 Vamos conversar agora sobre os tipos de variáveis que podemos ter.
 Spoiler: Este tipo de variável que criamos foi uma **String**
