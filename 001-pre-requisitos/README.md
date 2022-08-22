@@ -11,7 +11,7 @@ Brincadeiras a parte a sua instalação é bem fácil e intuitiva!
 
 [VSCode](https://code.visualstudio.com)
 
-![Página de instalação do VSCode](./instalando-vscode.png)
+![Página de instalação do VSCode](./imgs/instalando-vscode.png)
 
 ## Node
 
@@ -20,4 +20,4 @@ O link para baixa-lo é este abaixo, sendo quase o mesmo processo anterior de in
 
 [Node](https://nodejs.org/en)
 
-![Página de instalação do Node](./instalando-node.png)
+![Página de instalação do Node](./imgs/instalando-node.png)

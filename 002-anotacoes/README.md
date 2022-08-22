@@ -11,11 +11,11 @@ Com base nisso, é muito proveitoso ter sempre algum resumo dos conteudos que le
 Obsidian é uma ferramenta para anotar informações, sendo como um bloco de notas com funcionalidades avançadas.
 A vantagem de usá-lo é que ele proporciona formas de relacionar uma anotação com outra, Um bom exemplo disto seria uma sequencia de artigos com 3 partes, no qual vc poderia relacionar as 3 anotações dos 3 artigos para facilitar a busca dos resumos.
 
-![Relacionar anotações](./relacionar-anotacoes.png)
+![Relacionar anotações](./imgs/relacionar-anotacoes.png)
 
 Outra vantagem é a utilização de tags para categorizar conteudos, como por exemplo conteudos relacionados a introdução a programação, assim quando você precisar buscar suas anotações sobre o tema/categoria, você encontrará eles muito mais facilmente para revisar o conteúdo.
 
-![Usando tags](./usando-tags.png)
+![Usando tags](./imgs/usando-tags.png)
 
 A ferramenta consegue trabalhar com Markdown, forma de escrita na qual esta documentação do curso esta sendo feita, porem como seria mais um tema a ser estudado e fora do nosso foco atual de programação, eu recomendo que vocês revisitem o tema Markdown futuramente quando estiverem se sentindo confortável com as aulas e que podem buscar um segundo assunto para estudar.
 
@@ -25,7 +25,7 @@ Existem multiplas formas de tirar mais proveito da ferramente, porem este seria 
 
 O Obsidian pedirá para criarmos um diretório/pasta em nosso computador para gravar os arquivos relacionados as nossas anotações, quase como uma pasta que contem vários blocos de notas, após isto nos poderemos criar as notas e realizar nossos resumos como o planejado
 
-![Como user o Obsidian](./como-usar-o-obsidian.png)
+![Como user o Obsidian](./imgs/como-usar-o-obsidian.png)
 
 1. Botão para criar uma nova anotação
 2. Título da nossa pasta que criamos inicialmente com o obsidian, podendo ser colocado como "Estudos"
