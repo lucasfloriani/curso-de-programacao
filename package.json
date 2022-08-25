@@ -1,0 +1,32 @@
+{
+  "name": "curso-de-programacao",
+  "version": "1.0.0",
+  "description": "Bem vindo(a) ao meu curso de programação!\r Neste curso nós iremos focar conteudos desde os primeiros passos para programar até conteudos mais avançados conforme eu for adicionando conteudos a grade.\r Como meu planejamento é ir adicionando conteudos aos poucos na playlist do curso, estarei fazendo alguns videos que falaram sobre as sessões que chegamos até o momento, como por exemplo a parte inicial de lógica de programação e que a partir desse momento será abordado conteúdos de nível intermediário.",
+  "main": "index.js",
+  "scripts": {
+    "exemplos": "cross-env FILE_TYPE=exemplos ts-node ./executa-arquivo.ts",
+    "exercicios": "cross-env FILE_TYPE=exercicios ts-node ./executa-arquivo.ts",
+    "respostas": "cross-env FILE_TYPE=respostas ts-node ./executa-arquivo.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasfloriani/curso-de-programacao.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lucasfloriani/curso-de-programacao/issues"
+  },
+  "homepage": "https://github.com/lucasfloriani/curso-de-programacao#readme",
+  "devDependencies": {
+    "@types/glob": "^7.2.0",
+    "@types/node": "^18.7.10",
+    "cross-env": "^7.0.3",
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "glob": "^8.0.3",
+    "ts-node": "^10.9.1"
+  }
+}

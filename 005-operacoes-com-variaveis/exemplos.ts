@@ -6,9 +6,11 @@ console.log("soma:", soma);
 console.log("diminuicao:", diminuicao);
 console.log("multiplicacao:", multiplicacao);
 console.log("divisao:", divisao);
+console.log("\n");
 
 var total = 2 * (1 + (2 * 3) / 2) + 12;
 console.log("total:", total);
+console.log("\n");
 
 var nome = "Lucas";
 var sobrenome = "Floriani";
@@ -16,6 +18,7 @@ var nomeCompleto = nome + " " + sobrenome;
 console.log("nome:", nome);
 console.log("sobrenome:", sobrenome);
 console.log("nomeCompleto:", nomeCompleto);
+console.log("\n");
 
 var maiorQue = 3 > 2;
 var maiorOuIgualA = 3 >= 2;
@@ -33,6 +36,7 @@ console.log("igualAoValor:", igualAoValor);
 console.log("igualAoValorETipo:", igualAoValorETipo);
 console.log("diferenteDoValor:", diferenteDoValor);
 console.log("diferenteDoValorETipo:", diferenteDoValorETipo);
+console.log("\n");
 
 var negadoParaTerFalse = !true;
 var negadoParaTerTrue = !false;
@@ -42,6 +46,7 @@ console.log("negadoParaTerFalse:", negadoParaTerFalse);
 console.log("negadoParaTerTrue:", negadoParaTerTrue);
 console.log("expressaoNegadaParaTerFalse:", expressaoNegadaParaTerFalse);
 console.log("expressaoNegadaParaTerTrue:", expressaoNegadaParaTerTrue);
+console.log("\n");
 
 var email = "teste@gmail.com";
 var senha = "123456";
@@ -62,6 +67,7 @@ console.log("temEmail:", temEmail);
 console.log("maiorDeIdade:", maiorDeIdade);
 console.log("digitouSegredo:", digitouSegredo);
 console.log("cadastroValidadoEmEtapas:", cadastroValidadoEmEtapas);
+console.log("\n");
 
 var resultado1 = true && true;
 var resultado2 = false && true;
@@ -71,6 +77,7 @@ console.log("resultado1:", resultado1);
 console.log("resultado2:", resultado2);
 console.log("resultado3:", resultado3);
 console.log("resultado4:", resultado4);
+console.log("\n");
 
 var resultado5 = true || true;
 var resultado6 = false || true;
@@ -80,6 +87,7 @@ console.log("resultado5:", resultado5);
 console.log("resultado6:", resultado6);
 console.log("resultado7:", resultado7);
 console.log("resultado8:", resultado8);
+console.log("\n");
 
 var resultado9 = true && (true || false);
 var resultado10 = true || (false && true);
@@ -87,11 +95,13 @@ var resultado11 = (true && true && false) || (true && false);
 console.log("resultado9:", resultado9);
 console.log("resultado10:", resultado10);
 console.log("resultado11:", resultado11);
+console.log("\n");
 
 var resultado12 = !true;
 var resultado13 = !false;
 console.log("resultado12:", resultado12);
 console.log("resultado13:", resultado13);
+console.log("\n");
 
 var resultado14 = !true && !true;
 var resultado15 = !false && !true;
@@ -101,6 +111,7 @@ console.log("resultado14:", resultado14);
 console.log("resultado15:", resultado15);
 console.log("resultado16:", resultado16);
 console.log("resultado17:", resultado17);
+console.log("\n");
 
 var resultado18 = !true || !true;
 var resultado19 = !false || !true;
@@ -110,3 +121,4 @@ console.log("resultado18:", resultado18);
 console.log("resultado19:", resultado19);
 console.log("resultado20:", resultado20);
 console.log("resultado21:", resultado21);
+console.log("\n");
